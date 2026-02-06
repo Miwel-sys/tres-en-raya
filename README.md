@@ -10,10 +10,10 @@ Tener el entorno de desarrollo listo y el repositorio Git configurado.
 ### Tareas
 
 **1. Instalación de herramientas:**
-- [ ] Instalar Visual Studio Code (https://code.visualstudio.com/)
-- [ ] Instalar Git (https://git-scm.com/)
-- [ ] Crear cuenta en GitHub (https://github.com/)
-- [ ] Instalar extensión "Live Server" en VS Code
+- [✅] Instalar Visual Studio Code (https://code.visualstudio.com/)
+- [✅] Instalar Git (https://git-scm.com/)
+- [✅] Crear cuenta en GitHub (https://github.com/)
+- [✅] Instalar extensión "Live Server" en VS Code
 
 **2. Crear y configurar el repositorio:**
 ```bash
