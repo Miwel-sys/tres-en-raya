@@ -54,24 +54,24 @@ tres-en-raya/
 **2. HTML básico (`index.html`):**
 - [ ] Estructura HTML5 correcta
 - [ ] Título del juego
-- [ ] Tablero con 9 casillas (divs)
-- [ ] Botón para reiniciar juego
-- [ ] Área para mostrar el turno actual
-- [ ] Enlazar CSS y JavaScript
+- [✅] Tablero con 9 casillas (divs)
+- [✅] Botón para reiniciar juego
+- [✅] Área para mostrar el turno actual
+- [✅] Enlazar CSS y JavaScript
 
 **3. CSS básico (`style.css`):**
 - [ ] Centrar el juego en la pantalla
-- [ ] Tablero de 3x3 usando Grid o Flexbox
-- [ ] Casillas cuadradas con bordes visibles
+- [✅] Tablero de 3x3 usando Grid o Flexbox
+- [✅] Casillas cuadradas con bordes visibles
 - [ ] Hover effect en las casillas
 - [ ] Estilos para el botón de reinicio
 - [ ] Aplicar reglas CSS para su perfecto visionado en movil
 
 
 **4. JavaScript inicial (`script.js`):**
-- [ ] Seleccionar todas las casillas con `querySelectorAll`
-- [ ] Añadir console.log() al hacer click en una casilla
-- [ ] Verificar que funciona con Live Server
+- [✅] Seleccionar todas las casillas con `querySelectorAll`
+- [✅] Añadir console.log() al hacer click en una casilla
+- [✅] Verificar que funciona con Live Server
 
 ### ✅ Criterios de revisión
 - El tablero se ve correctamente en el navegador y el movil
